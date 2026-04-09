@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/glam-zone-hsr-website/static/css/main.b2fb8c78.css",
+    "main.js": "/glam-zone-hsr-website/static/js/main.881e60c8.js",
+    "index.html": "/glam-zone-hsr-website/index.html",
+    "main.b2fb8c78.css.map": "/glam-zone-hsr-website/static/css/main.b2fb8c78.css.map",
+    "main.881e60c8.js.map": "/glam-zone-hsr-website/static/js/main.881e60c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2fb8c78.css",
+    "static/js/main.881e60c8.js"
+  ]
+}
